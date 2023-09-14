@@ -1,0 +1,17 @@
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/application/dto/request/PersonRequest.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/services/impl/PersonServiceImpl.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/domain/repository/PersonRepository.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/utils/DateUtils.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/exception/ExceptionResponse.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/application/dto/response/PersonResponse.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/exception/exceptions/PersonNotFoundException.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/validations/ValidNumber.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/domain/model/Person.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/validations/NumberValidator.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/Hng2Application.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/validations/LetterSpaceValidator.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/services/PersonService.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/exception/exceptions/PersonAlreadyExistException.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/application/controller/PersonController.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/validations/ValidName.java
+/Users/decagon/Downloads/HNG-2/src/main/java/org/jhay/common/exception/handler/TaskExceptionHandler.java
