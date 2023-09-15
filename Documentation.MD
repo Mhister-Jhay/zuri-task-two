@@ -25,8 +25,8 @@ This project is a simple RESTful API that allows CRUD (Create, Read, Update, Del
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-rest-api.git
-   cd your-rest-api
+   git clone https://github.com/Mhister-Jhay/zuri-task-two.git
+   cd zuri-task-two
 
 2. Build the project using Maven: 
     ```bash
@@ -37,7 +37,7 @@ This project is a simple RESTful API that allows CRUD (Create, Read, Update, Del
    mvn spring-boot:run
    
 The application will now be running on:  http://localhost:8512
-
+The deployed application is also running on: https://zuri-task-two-msgq.onrender.com
 
 
 ## Usage
@@ -166,7 +166,7 @@ Response:
         }
 
 ## Testing
-Automated tests are available in the test package of this project. A test script, written in Java using the JUnit framework, is already located in the test package. To run the tests, use the following Maven command:
+Automated tests are available in the test package of this project. A test script, written in Java using the JUnit framework, is already located in the test package. This is the link to the test package: https://github.com/Mhister-Jhay/zuri-task-two/tree/main/src/test/java/org/jhay To run the tests, use the following Maven command:
         
         mvn test
 
@@ -201,4 +201,10 @@ The test cases cover various scenarios, including:
 
 ## Database Modeling
 The database used in this project consists of a single table named "person" with two columns: "id" (primary key) and "name" (unique).
+
+The link to the UML diagram: https://github.com/Mhister-Jhay/zuri-task-two/blob/main/src/main/resources/UML_task-2-Zuri.png
+
+The link to the ERD diagram: https://github.com/Mhister-Jhay/zuri-task-two/blob/main/src/main/resources/ERD_task-2-Zuri.png
+
+The link to the Documentation: https://github.com/Mhister-Jhay/zuri-task-two/blob/main/Documentation.MD
 
